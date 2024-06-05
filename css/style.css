@@ -1,0 +1,155 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+body {
+  text-align: center;
+  position: relative;
+}
+.first{
+  background-color: #E4F9F5;
+}
+
+h1 {
+  font-size: 5.25rem;
+  width: 40%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  text-shadow: 4px 4px 4px #aaa;
+  color: #66BFBF;
+
+}
+.profile img{
+  object-fit: cover;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
+.fpara{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 27px;
+  color: #66BFBF;
+}
+.cloud1 {
+  margin-top: 35px;
+  margin-left: 769px;
+}
+h2{
+  color: #11999E;
+  font-size: 40px;
+}
+h3{
+  color: #11999E;
+  font-family: sans-serif;
+}
+p{
+  color: #11999E;
+}
+.cloud2 {
+  position: absolute;
+  margin-left: -172px;
+
+}
+.mountain {
+  height: 411px;
+  margin-top: 88px;
+}
+.skill-row1{
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 60px auto 150px auto;
+  text-align: left;
+}
+.chilli{
+  width: 25%;
+  float: left;
+}
+.computer{
+  width: 25%;
+  float: right;
+  border-radius: 500px;
+}
+.f{
+  padding-top: 5%;
+  text-align: center;
+}
+.s{
+  padding-top: 5%;
+  text-align: center;
+}
+.sheading{
+  font-size: 40px;
+}
+.middle-container{
+  margin-top: 85px;
+  margin-bottom: 80px;
+}
+p{
+  font-family: cursive;
+}
+.profilepara{
+  margin-bottom:30px;
+  padding: 0 60px;
+}
+.fline{
+  border: dotted lightblue ;
+  border-bottom: none;
+  width: 15%;
+  margin: 70px auto 70px auto;
+}
+.sline{
+  border: dotted lightblue;
+  border-bottom: none;
+  width: 15%;
+  margin: 150px auto 120px auto;
+}
+.bpara{
+  margin: 70px auto 70px auto;
+}
+.bhead{
+  margin-bottom: 100px;
+}
+.btn{
+  background-color: #11999e;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 20px;
+  font-color: white;
+  color: white;
+  margin-bottom: 40px;
+}
+.btn:hover{
+  background-color: #11cdd4;
+}
+a {
+  color: #11999E;
+  text-decoration: none;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+a:hover{
+  color: white;
+}
+.bottom-container{
+  background-color: lightblue;
+  padding: 50px 0 20px 0;
+
+}
+.footer-link1{
+  margin-top: 200px;
+}
+.footer-link2{
+
+}
+.footer-link3{
+
+}
+.last{
+  color: white;
+  padding-top: 40px;
+}
